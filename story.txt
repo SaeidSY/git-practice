@@ -6,3 +6,5 @@ Student Instructions
 1. You will fork this repository.
 2. You will create local and remote commits.
 3. You will resolve push/pull conflicts.
+
+the first commit in the new branch.

@@ -8,3 +8,5 @@ Student Instructions
 3. You will resolve push/pull conflicts.
 
 the first commit in the new branch.
+
+you will be reverting here.

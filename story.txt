@@ -11,8 +11,4 @@ the first commit in the new branch.
 
 you will be reverting here.
 
-adding these lines for the reverting practice.
-
-Student Local Change: Seyedi
-
-GitHub Remote Change: Seyedi
+Mohammad Seyedi
